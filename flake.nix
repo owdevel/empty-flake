@@ -1,0 +1,7 @@
+{
+  outputs =
+    { ... }:
+    {
+      __empty = true;
+    };
+}
